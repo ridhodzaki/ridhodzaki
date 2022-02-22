@@ -1,6 +1,6 @@
 # Halo semuanya! 
 
-Perkenalkan nama saya **Ridho Dzaki Santoso**.\
+Perkenalkan nama saya **Ridho Dzaki Santoso**.
 
 Saya seorang Mahasiswa di **Universitas Bandar Lampung**
 Saya memiliki ketertarikan pada bidang :

@@ -1,6 +1,6 @@
 # Halo semuanya! 
 
-!asd
+
 Perkenalkan nama saya **Ridho Dzaki Santoso**.
 
 Saya seorang Mahasiswa di **Universitas Bandar Lampung**

@@ -5,7 +5,7 @@ Perkenalkan nama saya **Ridho Dzaki Santoso**.
 
 Saya seorang Mahasiswa di **Universitas Bandar Lampung**
 Saya memiliki ketertarikan pada bidang :
-- FrontEnd Development
+- Web Development
 - BackEnd Development
 - Android Developer
 
